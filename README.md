@@ -10,11 +10,19 @@
 
 ---
 
+<img
+  className="rf-hunter-product-image"
+  src="/img/RF-Hunter.png"
+  alt="RF-Hunter wireless security research device with OLED screen, keypad, and antenna"
+/>
+
 ## Buy a pre-built unit
 
 If you want to skip the build and get straight to learning:
 
 **[→ Buy RF-Hunter at rdhrobotics.in](https://rdhrobotics.in/products/rf-hunter)**
+
+**[→ RF-Hunter Documantation](https://docs.rdhrobotics.in/docs/RF-Hunter/)**
 
 Assembled, tested, and shipped. Includes quick-start card.
 
