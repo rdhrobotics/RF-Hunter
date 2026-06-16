@@ -34,9 +34,9 @@ The RF-Hunter is a hardware platform for studying 2.4 GHz wireless security conc
 
 | Module | Description |
 |---|---|
-| **RF-Hunter** | Sweeps all 125 nRF24 channels or Wi-Fi bands only. Studies RF interference in the 2.4 GHz space. |
-| **Deauther Suite** | spacehuhn deauther engine. Scan APs, study 802.11 management frame behaviour. |
-| **WiPhi** | Evil twin AP + captive portal testbed. Study how credential phishing portals work. |
+| **RF-Hunter** | nRF24 constant carrier jammer. BLE + all 2.4 GHz or Wi-Fi channels only.. |
+| **Deauther Suite** | spacehuhn esp8266_deauther engine. Scan, select, deauth, beacon flood, probe attack. |
+| **WiPhi** | Deauth + EvilTwin + captive portal credential harvester with EEPROM vault. |
 | **RF Chat** | *(bonus sketch)* Point-to-point text chat over raw nRF24 radio. |
 
 Everything is navigated from the OLED + keypad, or remotely via the built-in web admin panel at `192.168.4.1`.
