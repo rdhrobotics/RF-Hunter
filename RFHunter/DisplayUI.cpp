@@ -11,7 +11,9 @@
 #define BTN_RIGHT 634
 #define BTN_ENTER 729
 #define BTN_BACK  687
-#define BTN_TOLERANCE 8
+#define BTN_TOLERANCE 15
+
+
 
 // ===== adjustable ===== //
 void DisplayUI::configInit() {
